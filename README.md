@@ -4,7 +4,9 @@
 ### This repository contains data and reproducible code used in the paper:
 
 Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems
+
 Shengman Lyu, Xiangyu Liu, Jake M. Alexander
+
 [add link to preprint]
 
 ### Citation
