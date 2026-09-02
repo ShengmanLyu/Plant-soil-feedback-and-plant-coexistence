@@ -1,4 +1,4 @@
-# Data from: Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems
+# Data and codes for: Linking plant–soil feedbacks with resource competition to understand plant coexistence
 
 This repository contains the data and reproducible R code used in the paper:
 
@@ -18,7 +18,7 @@ The repository includes the datasets and R scripts required to reproduce the ana
 
   > Lyu, S., & Alexander, J. M. (2023). Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence. *Ecology Letters, 26*(3), 437–447. https://doi.org/10.1111/ele.14167
 
-- **`NICH_Plant-soil feedback_submission.R`**: Contains the R code used to quantify PSF-driven niche and fitness differences, perform statistical analyses, and generate the figures presented in the paper.
+- **`NICH_Plant-soil feedback.R`**: Contains the R code used to quantify PSF-driven niche and fitness differences, perform statistical analyses, and generate the figures presented in the paper.
   
 ## Citation
 
