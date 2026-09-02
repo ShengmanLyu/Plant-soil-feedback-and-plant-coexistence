@@ -1,20 +1,34 @@
-# Plant-soil-feedback-and-plant-coexistence
+# Plant–soil feedbacks and plant coexistence
 
+This repository contains the data and reproducible R code used in the paper:
 
-### This repository contains data and reproducible code used in the paper:
+**Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems**
 
-Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems
+Shengman Lyu, Xiangyu Liu, and Jake M. Alexander
 
-Shengman Lyu, Xiangyu Liu, Jake M. Alexander
+**Preprint:** [add link to preprint]
 
-[add link to preprint]
+## Repository contents
 
-### Citation
-If you use this code, please cite:
-GitHub repository: https://github.com/EvelinIseli/RangeX_IPMs_public
+The repository includes the datasets and R scripts required to reproduce the analyses and figures presented in the paper.
 
-### Contact
-For questions or collaborations, contact: shengman.lyu@gmail.com
+## Citation
 
-## #License
-This repository is shared under the CC BY-NC-ND 4.0 license.
+If you use the data or code from this repository, please cite the associated paper:
+
+> Lyu, S., Liu, X., & Alexander, J. M. *Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems.* [Journal/preprint information to be added]
+
+The repository can also be cited directly:
+
+> [Add repository citation and DOI/Zenodo link]
+
+## Contact
+
+For questions about the data, code, or potential collaborations, please contact:
+
+**Shengman Lyu**  
+shengman.lyu@gmail.com
+
+## License
+
+This repository is licensed under the **CC BY 4.0 License**.
