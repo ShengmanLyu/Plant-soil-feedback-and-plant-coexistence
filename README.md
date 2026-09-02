@@ -14,7 +14,7 @@ The repository includes the datasets and R scripts required to reproduce the ana
 
 - **`plant_soil feedback.xlsx`**: Contains the raw data collected from the greenhouse plant–soil feedback (PSF) experiment. These data are used to quantify PSF-driven niche and fitness differences.
 
-- **`coexistence.csv`**: Contains the estimated niche and fitness differences from the field competition experiment. The R code used to parameterise the integral projection models (IPMs) and perform the coexistence analyses can be found in:
+- **`coexistence.csv`**: Contains the estimated niche and fitness differences from the field competition experiment. The data and R code used to parameterise the integral projection models (IPMs) and perform the coexistence analyses can be found in:
 
   > Lyu, S., & Alexander, J. M. (2023). Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence. *Ecology Letters, 26*(3), 437–447. https://doi.org/10.1111/ele.14167
 
