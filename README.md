@@ -31,4 +31,4 @@ shengman.lyu@gmail.com
 
 ## License
 
-This repository is licensed under the **CC BY 4.0 License**.
+This repository is licensed under the **Creative Commons Attribution (CC BY 4.0) License**.
