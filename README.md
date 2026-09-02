@@ -1,4 +1,4 @@
-# Plant–soil feedbacks and plant coexistence
+# Data from: Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems
 
 This repository contains the data and reproducible R code used in the paper:
 
