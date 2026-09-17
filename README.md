@@ -2,7 +2,7 @@
 
 This repository contains the data and reproducible R code used in the paper:
 
-**Linking plant–soil feedbacks with resource competition to understand plant coexistence **
+**Linking plant–soil feedbacks with resource competition to understand plant coexistence**
 
 Shengman Lyu, Xiangyu Liu, and Jake M. Alexander
 
@@ -28,7 +28,6 @@ If you use the data or code from this repository, please cite the associated pap
 
 > Lyu, S., Liu, X., & Alexander, J. M. *Linking plant–soil feedbacks with resource competition to understand plant coexistence.* [bioRxiv 2026.09.13.751226; doi: https://doi.org/10.64898/2026.09.13.751226]
 
-
 ## Contact
 
 For questions about the data, code, or potential collaborations, please contact:
@@ -38,4 +37,4 @@ shengman.lyu@gmail.com
 
 ## License
 
-This repository is licensed under the **Creative Commons Attribution (CC BY 4.0) License**.
+This repository is licensed under the **Creative Commons Attribution (CC BY NC 4.0) License**.
