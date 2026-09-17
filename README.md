@@ -2,11 +2,12 @@
 
 This repository contains the data and reproducible R code used in the paper:
 
-**Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems**
+**Linking plant–soil feedbacks with resource competition to understand plant coexistence **
 
 Shengman Lyu, Xiangyu Liu, and Jake M. Alexander
 
-**Preprint:** [link to preprint to be added]
+**Submitted to Journal of Ecology**
+**Preprint:** [https://doi.org/10.64898/2026.09.13.751226]
 
 ## Repository contents
 
@@ -24,7 +25,7 @@ The repository includes the datasets and R scripts required to reproduce the ana
 
 If you use the data or code from this repository, please cite the associated paper:
 
-> Lyu, S., Liu, X., & Alexander, J. M. *Linking plant–soil feedbacks with resource competition to understand plant coexistence in mountain ecosystems.* [Journal/preprint information to be added]
+> Lyu, S., Liu, X., & Alexander, J. M. *Linking plant–soil feedbacks with resource competition to understand plant coexistence.* [bioRxiv 2026.09.13.751226; doi: https://doi.org/10.64898/2026.09.13.751226]
 
 
 ## Contact
