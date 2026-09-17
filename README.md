@@ -6,7 +6,8 @@ This repository contains the data and reproducible R code used in the paper:
 
 Shengman Lyu, Xiangyu Liu, and Jake M. Alexander
 
-**Submitted to Journal of Ecology**
+**Submitted to Journal of Ecology** 14.09.2026
+
 **Preprint:** [https://doi.org/10.64898/2026.09.13.751226]
 
 ## Repository contents
